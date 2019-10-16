@@ -49,3 +49,10 @@
 .ma-1{
   margin-left: 20rpx;
 }
+.beijing{
+  width:100%;
+  height:400rpx;
+}
+.tfbg{
+  position: absolute;
+}

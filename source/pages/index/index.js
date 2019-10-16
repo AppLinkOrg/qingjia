@@ -3,6 +3,7 @@ import { AppBase } from "../../appbase";
 import { ApiConfig } from "../../apis/apiconfig";
 import { InstApi } from "../../apis/inst.api.js";
 
+
 class Content extends AppBase {
   constructor() {
     super();
@@ -14,6 +15,10 @@ class Content extends AppBase {
   }
   onMyShow() {
     var that = this;
+
+   
+
+ 
   }
 }
 var content = new Content();

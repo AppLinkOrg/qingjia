@@ -1,1 +1,4 @@
-home
+<view>
+<image src='{{uploadpath}}resource/{{res.beijing}}' class='beijing'></image>
+</view>
+<view class='txt-bold f-32'>同方办公</view>
