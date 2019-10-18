@@ -54,5 +54,36 @@
   height:400rpx;
 }
 .tfbg{
-  position: absolute;
+  position: relative;
+  top:-400rpx;
+}
+.kapian{
+  width:90%;
+  height: 400rpx;
+  background:white;
+  border-radius: 20rpx;
+  box-shadow: 0 4rpx 32rpx -8rpx rgba(0, 0, 0, 0.2) ;
+  position: relative;
+  top:-360rpx;
+  margin-left:5%;
+}
+.icon-24{
+  height:48rpx;
+  width:48rpx;
+  margin-left:35rpx
+}
+.bddb{
+  position: relative;
+  top:-300rpx;
+  margin-left:5%;
+}
+.sqkp{
+  width:94%;
+  height: 400rpx;
+  background:white;
+  border-radius: 20rpx;
+  box-shadow: 0 4rpx 32rpx -8rpx rgba(0, 0, 0, 0.2) ;
+  position: relative;
+  top:-270rpx;
+  margin-left:3%;
 }

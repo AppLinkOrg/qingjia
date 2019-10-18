@@ -1,4 +1,85 @@
 <view>
-<image src='{{uploadpath}}resource/{{res.beijing}}' class='beijing'></image>
+  <image src='{{uploadpath}}resource/{{res.beijing}}'                                         class='beijing'></image>
+  <view class='txt-bold f-32 tfbg'style='text-align: center;'>同方办公</view>
+  <view class='kapian flex-row flex-column' style='justify-content:center'>
+
+    <view class="flex-row flex-center" style='justify-content:center'>
+
+      <view>
+        <view>
+          <image  src='{{uploadpath}}resource/{{res.qjsq}}' class='icon-24'></image>
+        </view>
+        <view class='txt-black h5'>请假申请</view>
+      </view>
+
+      <view class='margin-left-90 margin-right-90'>
+        <view>
+          <image  src='{{uploadpath}}resource/{{res.dksq}}' class='icon-24'></image>
+        </view>
+        <view class='txt-black h5'>打卡申请</view>
+      </view>
+
+      <view>
+        <view>
+          <image  src='{{uploadpath}}resource/{{res.jbsq}}' class='icon-24'></image>
+        </view>
+        <view class='txt-black h5'>加班申请</view>
+      </view>
+
+    </view>
+
+    <view class="flex-row flex-center margin-top-60" style='justify-content:center'>
+
+      <view>
+        <view>
+          <image  src='{{uploadpath}}resource/{{res.bgyp}}' class='icon-24'></image>
+        </view>
+        <view class='txt-black h5'>办公用品</view>
+      </view>
+
+      <view class='margin-left-90 margin-right-90'>
+        <view>
+          <image  src='{{uploadpath}}resource/{{res.gwfb}}' class='icon-24'></image>
+        </view>
+        <view class='txt-black h5'>公文发布</view>
+      </view>
+
+      <view>
+        <view>
+          <image  src='{{uploadpath}}resource/{{res.iyhp}}' class='icon-24'></image>
+        </view>
+        <view class='txt-black h5'>it易耗品</view>
+      </view>
+
+    </view>
+
+  </view>
+  <view class='h4-5 txt-bold txt-black bddb'>我的待办</view>
+  <view class='sqkp'>
+
+    <view class='flex-row flex-center'>
+      <view></view>
+      <view class='txt-black txt-bold'>申请人:</view>
+      <view class='txt-black txt-bold'>科雨微</view>
+      <view>2018/8/7</view>
+    </view>
+
+    <view class='flex-row flex-center'>
+      <view class='txt-black '>请假类别:</view>
+      <view class='txt-black '>外出/年假</view>
+    </view>
+
+    <view class='flex-row flex-center'>
+      <view class='txt-black '>申请部门:</view>
+      <view class='txt-black '>威世北京公司</view>
+    </view>
+
+    <view class='flex-row flex-center'>
+      <view class='txt-black '>申请部门:</view>
+      <view class='txt-black '>威世北京公司</view>
+    </view>
+
+  </view>
 </view>
-<view class='txt-bold f-32'>同方办公</view>
+
+
